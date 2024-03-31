@@ -1,0 +1,10 @@
+joblib==1.2.0
+matplotlib==3.6.2
+numpy==1.23.5
+pandas==1.5.2
+pytorch_lightning==1.8.1
+scikit_learn==1.2.2
+seaborn==0.12.2
+torch==1.13.0
+torchvision==0.14.0
+river==0.11.0
